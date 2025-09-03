@@ -1,10 +1,10 @@
 ## BVPLib
 ---
-* A C++20 developed Library for solving Boundary Value Problems.
+* A `C++20` developed Library for solving ___Boundary Value Problems___.
 
 ### Introduction
 ---
-* This is a `.so` (__shared object__) file which can be used to solve ___Boundary Value Problems___.
+* This is a `.so` (__shared object__) file which can be used to solve __Boundary Value Problems__.
 * This library will make use of `C++20` features, such as `modules` instead of `header files`, amoung other features found in older `C++` versions.
 
 ### Theory of BVPs
