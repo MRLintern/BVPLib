@@ -17,7 +17,7 @@
 * __OS__: `Linux (Ubuntu 20.04)`.
 * __Eigen__: For the Linear Algebra.
 * `CMake`.
-* __Text Editor/IDE__: whatever you fancy.]
+* __Text Editor/IDE__: whatever you fancy.
 
 ###
 ---
