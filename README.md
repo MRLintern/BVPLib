@@ -22,6 +22,6 @@
 * `CMake`.
 * __Text Editor/IDE__: whatever you fancy.
 
-###
+### Running and Using the Software
 ---
 * TODO.
