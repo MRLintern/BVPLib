@@ -16,7 +16,7 @@
 
 ### Requirements
 ---
-* __Compiler__: `GCC 10` introduced the first significant, though still experimental, support for C++20 features. However, the version I've used is `gcc/g++ 15.1.0`.
+* __Compiler__: `GCC 10` introduced the first significant, though still experimental, support for `C++20` features. However, the version I've used is `gcc/g++ 15.1.0`.
 * __OS__: `Linux (Ubuntu 20.04)`.
 * __Eigen__: For the Linear Algebra.
 * `CMake`.
